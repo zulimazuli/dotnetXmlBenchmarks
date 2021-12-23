@@ -1,7 +1,7 @@
 ## XmlDocument vs XDocument: Benchmark
 Looking for a suitable solution for the project I was involved in, I built this benchmark in an attempt to determine what performs better - the old and dirty `XmlDocument` or maybe a slightly newer, much more readable and practical solution that uses XML to Linq with `XDocument` and `XElement`.
 
-Benchmark using: [![BenchmarkDotNet](https://img.shields.io/badge/BenchmarkDotNet-0.12.1-orange)](https://github.com/dotnet/BenchmarkDotNet)
+Benchmark using: [![BenchmarkDotNet](https://img.shields.io/badge/BenchmarkDotNet-0.13.1-orange)](https://github.com/dotnet/BenchmarkDotNet)
 
 
 ## Results
